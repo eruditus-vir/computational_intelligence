@@ -1,0 +1,37 @@
+Hour,Class ID,Monday,Tuesday,Wednesday,Thursday,Friday
+8 AM,1,"[('PE', 'Lebron')]",[],"[('History', 'Wit')]","[('Science', 'Juan')]",[]
+8 AM,2,"[('Science', 'Juan')]","[('Science', 'Juan')]",[],[],[]
+8 AM,3,[],[],[],[],[]
+8 AM,4,[],"[('History', 'Wit')]","[('PE', 'Lebron')]",[],[]
+9 AM,1,"[('History', 'Wit')]",[],[],"[('PE', 'Lebron')]","[('English', 'Sia')]"
+9 AM,2,[],"[('English', 'Sia')]",[],[],[]
+9 AM,3,[],"[('Math', 'Juan')]","[('English', 'Sia')]",[],[]
+9 AM,4,[],"[('History', 'Wit')]",[],[],[]
+10 AM,1,[],[],[],[],"[('Math', 'Juan')]"
+10 AM,2,[],[],[],[],[]
+10 AM,3,[],[],"[('Math', 'Juan')]","[('PE', 'Lebron')]","[('English', 'Sia')]"
+10 AM,4,"[('English', 'Sia')]","[('Science', 'Juan')]","[('English', 'Sia')]","[('English', 'Sia')]",[]
+11 AM,1,[],[],[],[],[]
+11 AM,2,[],"[('Math', 'Carlos')]","[('English', 'Sia')]",[],"[('English', 'Sia')]"
+11 AM,3,[],"[('Art', 'Mina')]","[('History', 'Wit')]","[('English', 'Sia')]","[('PE', 'Lebron')]"
+11 AM,4,"[('Art', 'Mina')]","[('PE', 'Lebron')]","[('Art', 'Mina')]",[],[]
+0 PM,1,[],"[('Math', 'Carlos')]","[('English', 'Sia')]","[('English', 'Sia')]",[]
+0 PM,2,"[('Art', 'Mina')]",[],"[('PE', 'Lebron')]","[('Math', 'Carlos')]","[('PE', 'Lebron')]"
+0 PM,3,[],[],[],"[('Art', 'Mina')]","[('English', 'Sia')]"
+0 PM,4,"[('History', 'Wit')]","[('English', 'Sia')]","[('Art', 'Mina')]",[],[]
+1 PM,1,"[('Science', 'Carlos')]",[],"[('English', 'Sia')]",[],[]
+1 PM,2,"[('English', 'Sia')]","[('Science', 'Carlos')]",[],"[('Art', 'Mina')]",[]
+1 PM,3,"[('Art', 'Mina')]","[('Art', 'Mina')]",[],[],"[('History', 'Maria')]"
+1 PM,4,"[('Science', 'Juan')]","[('Science', 'Juan')]","[('Art', 'Mina')]",[],[]
+2 PM,1,[],"[('History', 'Maria')]","[('Math', 'Carlos')]",[],[]
+2 PM,2,"[('Math', 'Juan')]",[],"[('Art', 'Mina')]",[],[]
+2 PM,3,"[('Math', 'Carlos')]",[],"[('History', 'Wit')]","[('Math', 'Carlos')]",[]
+2 PM,4,[],"[('Science', 'Carlos')]",[],[],[]
+3 PM,1,"[('History', 'Maria')]","[('Science', 'Juan')]","[('Math', 'Carlos')]","[('Science', 'Carlos')]",[]
+3 PM,2,"[('Science', 'Carlos')]","[('Math', 'Carlos')]","[('Art', 'Mina')]",[],[]
+3 PM,3,[],"[('History', 'Maria')]",[],[],[]
+3 PM,4,[],[],"[('History', 'Maria')]",[],[]
+4 PM,1,[],[],[],[],[]
+4 PM,2,[],[],[],[],[]
+4 PM,3,[],[],[],[],[]
+4 PM,4,[],[],[],[],[]
